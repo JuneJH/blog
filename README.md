@@ -19,10 +19,10 @@
 1. [登录](https://github.com/JuneJH/blog/issues/15)
 
 
-## 一些关键
+## 一些点
 
 1. [关于上传下载](https://github.com/JuneJH/blog/issues/10)<br>
 2. [关于CORS跨域](https://github.com/JuneJH/blog/issues/14)<br>
-3. [关于CORS跨域](https://github.com/JuneJH/blog/issues/17)<br>
+3. [关于cookie和session还有jwt](https://github.com/JuneJH/blog/issues/17)<br>
 
 
