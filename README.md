@@ -23,4 +23,6 @@
 
 1. [关于上传下载](https://github.com/JuneJH/blog/issues/10)<br>
 2. [关于CORS跨域](https://github.com/JuneJH/blog/issues/14)<br>
+3. [关于CORS跨域](https://github.com/JuneJH/blog/issues/17)<br>
+
 
