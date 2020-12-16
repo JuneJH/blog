@@ -16,14 +16,14 @@
 
 ## 一些代码
 
-1. [封装XMLHttpRequest对象](Todo)<br>
-2. [实现绑定this【迁移中】](Todo)<br>
-3. [实现深度克隆【迁移中】](Todo)<br>
-4. [实现柯里化【迁移中】](Todo)<br>
-5. [防抖和节流【迁移中】](Todo)<br>
-6. [实现flatten【迁移中】](Todo)<br>
-7. [实现promiseA+【迁移中】](Todo)<br>
-8. [实现EventEmitter【迁移中】](Todo)<br>
+1. [封装XMLHttpRequest对象](https://github.com/JuneJH/blog/issues/7)<br>
+2. [实现绑定this【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
+3. [实现深度克隆【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
+4. [实现柯里化【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
+5. [防抖和节流【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
+6. [实现flatten【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
+7. [实现promiseA+【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
+8. [实现EventEmitter【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
 
 
 
@@ -36,6 +36,16 @@
 
 ## [实战]一些模块
 
-1. [登录](https://github.com/JuneJH/blog/issues/15)
+1. [登录](https://github.com/JuneJH/blog/issues/15)<br>
+
+## JavaScript相关
+
+1. [搞懂闭包【计划整理中】](https://github.com/JuneJH/blog/issues/7)<br>
+2. [搞懂类型转换【计划整理中】](https://github.com/JuneJH/blog/issues/7)<br>
+3. [搞懂原型和原型链【计划整理中】](https://github.com/JuneJH/blog/issues/7)<br>
+4. [搞懂执行上下文【计划整理中】](https://github.com/JuneJH/blog/issues/7)<br>
+5. [搞懂this【计划整理中】](https://github.com/JuneJH/blog/issues/7)<br>
+6. [搞懂事件机制【计划整理中】](https://github.com/JuneJH/blog/issues/7)<br>
+7. [搞懂事件循环【计划整理中】](https://github.com/JuneJH/blog/issues/7)<br>
 
 
