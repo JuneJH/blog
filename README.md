@@ -14,9 +14,17 @@
 8. [一些关于Nodejs库使用的问题](https://github.com/JuneJH/blog/issues/12)<br>
 9. [一些关于Nodejs配置的问题](https://github.com/JuneJH/blog/issues/13)<br>
 
-## 一些模块
+## 一些代码
 
-1. [登录](https://github.com/JuneJH/blog/issues/15)
+1. [封装XMLHttpRequest对象](Todo)<br>
+2. [实现绑定this](Todo)<br>
+3. [实现深度克隆](Todo)<br>
+4. [实现柯里化](Todo)<br>
+5. [防抖和节流](Todo)<br>
+6. [实现flatten](Todo)<br>
+7. [实现promiseA+](Todo)<br>
+8. [实现EventEmitter](Todo)<br>
+
 
 
 ## 一些点
@@ -24,5 +32,10 @@
 1. [关于上传下载](https://github.com/JuneJH/blog/issues/10)<br>
 2. [关于CORS跨域](https://github.com/JuneJH/blog/issues/14)<br>
 3. [关于cookie和session还有jwt](https://github.com/JuneJH/blog/issues/17)<br>
+
+
+## [实战]一些模块
+
+1. [登录](https://github.com/JuneJH/blog/issues/15)
 
 
