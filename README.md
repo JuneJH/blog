@@ -6,24 +6,24 @@
 
 1. [一些关于HTML&&CSS的问题](https://github.com/JuneJH/blog/issues/1)<br>
 2. [一些关于Javascript的问题](https://github.com/JuneJH/blog/issues/6)<br>
-3. [一些关于Webpack的问题](https://github.com/JuneJH/blog/issues/7)<br>
-4. [一些关于React的问题](https://github.com/JuneJH/blog/issues/8)<br>
+3. [一些关于Webpack的问题【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
+4. [一些关于React的问题【完善中】](https://github.com/JuneJH/blog/issues/8)<br>
 5. [一些关于Hook的使用](https://github.com/JuneJH/blog/issues/16)<br>
-6. [一些关于Typescript的问题](https://github.com/JuneJH/blog/issues/9)<br>
+6. [一些关于Typescript的问题【迁移中】](https://github.com/JuneJH/blog/issues/9)<br>
 7. [一些关于Express的问题](https://github.com/JuneJH/blog/issues/11)<br>
 8. [一些关于Nodejs库使用的问题](https://github.com/JuneJH/blog/issues/12)<br>
-9. [一些关于Nodejs配置的问题](https://github.com/JuneJH/blog/issues/13)<br>
+9. [一些关于Nodejs配置的问题【计划中】](https://github.com/JuneJH/blog/issues/13)<br>
 
 ## 一些代码
 
 1. [封装XMLHttpRequest对象](Todo)<br>
-2. [实现绑定this](Todo)<br>
-3. [实现深度克隆](Todo)<br>
-4. [实现柯里化](Todo)<br>
-5. [防抖和节流](Todo)<br>
-6. [实现flatten](Todo)<br>
-7. [实现promiseA+](Todo)<br>
-8. [实现EventEmitter](Todo)<br>
+2. [实现绑定this【迁移中】](Todo)<br>
+3. [实现深度克隆【迁移中】](Todo)<br>
+4. [实现柯里化【迁移中】](Todo)<br>
+5. [防抖和节流【迁移中】](Todo)<br>
+6. [实现flatten【迁移中】](Todo)<br>
+7. [实现promiseA+【迁移中】](Todo)<br>
+8. [实现EventEmitter【迁移中】](Todo)<br>
 
 
 
