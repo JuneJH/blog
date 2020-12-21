@@ -9,7 +9,7 @@
 ## 【基石】Cascading Style Sheets
 
 1. [一些CSS相关]()<br>
-2. [三栏布局]()<br>
+2. [三栏布局](https://github.com/JuneJH/blog/issues/19)<br>
 3. [Flex相关]()<br>
 
 ## 【基石】JavaScript
