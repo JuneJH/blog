@@ -63,7 +63,7 @@
 2. [模拟实现绑定this](https://github.com/JuneJH/blog/issues/20)<br>
 3. [实现深度克隆【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
 4. [实现柯里化【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
-5. [防抖和节流【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
+5. [实现防抖和节流](https://github.com/JuneJH/blog/issues/21)<br>
 6. [实现flatten【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
 7. [实现promiseA+【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
 8. [实现EventEmitter【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
