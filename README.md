@@ -60,7 +60,7 @@
 ## 一些代码
 
 1. [封装XMLHttpRequest对象](https://github.com/JuneJH/blog/issues/18)<br>
-2. [实现绑定this【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
+2. [模拟实现绑定this](https://github.com/JuneJH/blog/issues/20)<br>
 3. [实现深度克隆【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
 4. [实现柯里化【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
 5. [防抖和节流【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
