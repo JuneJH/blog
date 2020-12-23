@@ -4,21 +4,21 @@
 
 ## 【基石】Hyper Text Markup Language
 
-1. [关于HTML基础]()
-2. [关于a元素]()
-3. [关于img元素]()
-4. [关于video&audio元素]()
-5. [关于表单那些]()
+1. [关于HTML基础【待上传】]()
+2. [关于a元素【待上传】]()
+3. [关于img元素【待上传】]()
+4. [关于video&audio元素【待上传】]()
+5. [关于表单那些【待上传】]()
 
 ## 【基石】Cascading Style Sheets
 
-1. [关于Css那些]()<br>
-2. [关于选择器]()<br>
-3. [关于盒子模型]()<br>
-4. [关于BFC]()<br>
-5. [关于三栏布局](https://github.com/JuneJH/blog/issues/19)<br>
-6. [关于Flex布局]()<br>
-7. [关于居中方案]()<br>
+1. [关于Css那些【待上传】]()<br>
+2. [关于选择器【待上传】]()<br>
+3. [关于盒子模型【待上传】]()<br>
+4. [关于BFC【待上传】]()<br>
+5. [关于三栏布局【待上传】](https://github.com/JuneJH/blog/issues/19)<br>
+6. [关于Flex布局【待上传】]()<br>
+7. [关于居中方案【待上传】]()<br>
 
 
 
@@ -35,8 +35,9 @@
 
 ## 【工具】Node Package Manager
 
-1. [npm]()<br>
-2. [yarn]()<br>
+1. [关于npm的一些]()<br>
+2. [关于yarn的一些]()<br>
+2. [关于npm script的一些]()<br>
 
 
 ## 【工具】Webpack
@@ -70,7 +71,7 @@
 
 ## 一些代码
 
-1. [封装XMLHttpRequest对象](https://github.com/JuneJH/blog/issues/18)<br>
+1. [实现封装XMLHttpRequest对象](https://github.com/JuneJH/blog/issues/18)<br>
 2. [实现绑定this函数](https://github.com/JuneJH/blog/issues/20)<br>
 3. [实现深度克隆](https://github.com/JuneJH/blog/issues/22)<br>
 4. [实现柯里化](https://github.com/JuneJH/blog/issues/23)<br>
