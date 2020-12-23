@@ -64,7 +64,7 @@
 3. [实现深度克隆](https://github.com/JuneJH/blog/issues/22)<br>
 4. [实现柯里化](https://github.com/JuneJH/blog/issues/23)<br>
 5. [实现防抖和节流](https://github.com/JuneJH/blog/issues/21)<br>
-6. [实现flatten【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
+6. [实现数组拉平](https://github.com/JuneJH/blog/issues/24)<br>
 7. [实现promiseA+【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
 8. [实现EventEmitter【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
 
