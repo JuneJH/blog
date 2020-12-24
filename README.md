@@ -73,12 +73,13 @@
 
 1. [实现封装XMLHttpRequest对象](https://github.com/JuneJH/blog/issues/18)<br>
 2. [实现绑定this函数](https://github.com/JuneJH/blog/issues/20)<br>
-3. [实现深度克隆](https://github.com/JuneJH/blog/issues/22)<br>
-4. [实现柯里化](https://github.com/JuneJH/blog/issues/23)<br>
-5. [实现防抖和节流](https://github.com/JuneJH/blog/issues/21)<br>
-6. [实现数组拉平](https://github.com/JuneJH/blog/issues/24)<br>
-7. [实现EventEmitter](https://github.com/JuneJH/blog/issues/25)<br>
-8. [实现promiseA+【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
+3. [实现继承](https://github.com/JuneJH/blog/issues/26)<br>
+4. [实现深度克隆](https://github.com/JuneJH/blog/issues/22)<br>
+5. [实现柯里化](https://github.com/JuneJH/blog/issues/23)<br>
+6. [实现防抖和节流](https://github.com/JuneJH/blog/issues/21)<br>
+7. [实现数组拉平](https://github.com/JuneJH/blog/issues/24)<br>
+8. [实现EventEmitter](https://github.com/JuneJH/blog/issues/25)<br>
+9. [实现promiseA+【迁移中】](https://github.com/JuneJH/blog/issues/7)<br>
 
 
 
