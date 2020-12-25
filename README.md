@@ -31,7 +31,7 @@
 5. [搞懂this【计划整理中】](https://github.com/JuneJH/blog/issues/7)<br>
 6. [搞懂事件循环【计划整理中】](https://github.com/JuneJH/blog/issues/7)<br>
 
-## 【基石】Node
+## 【基石】Node 
 
 ## 【工具】Node Package Manager
 
