@@ -4,7 +4,7 @@
 
 ## 【基石】Hyper Text Markup Language
 
-1. [关于HTML基础【待上传】]()
+1. [关于HTML基础](https://github.com/JuneJH/blog/issues/27)
 2. [关于a元素【待上传】]()
 3. [关于img元素【待上传】]()
 4. [关于video&audio元素【待上传】]()
