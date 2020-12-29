@@ -14,7 +14,7 @@
 ## 【基石】Cascading Style Sheets
 
 1. [关于Css那些](https://github.com/JuneJH/blog/issues/31)<br>
-2. [关于选择器【待上传】]()<br>
+2. [关于选择器](https://github.com/JuneJH/blog/issues/32)<br>
 3. [关于盒子模型【待上传】]()<br>
 4. [关于BFC【待上传】]()<br>
 5. [关于三栏布局](https://github.com/JuneJH/blog/issues/19)<br>
