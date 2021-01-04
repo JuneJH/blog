@@ -37,16 +37,23 @@
 2. [NodeJs的组成【计划】]()<br>
 3. [express使用【计划】]()<br>
 
+## 【基石】 Database
+
+1. [MySql数据库【计划】]()<br>
+2. [Sequelize&Typeorm使用【计划】]()<br>
+
+
 ## 【工具】Node Package Manager
 
 1. [关于npm的一些]()<br>
 2. [关于yarn的一些]()<br>
-2. [关于npm script的一些]()<br>
+3. [关于npm script的一些]()<br>
 
 
 ## 【工具】Webpack
 
 ## 【工具】Typescript
+
 
 
 ## 【生产】React
