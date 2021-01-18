@@ -121,6 +121,7 @@
 ## [实战]一些模块
 
 1. [登录](https://github.com/JuneJH/blog/issues/15)<br>
+2. [基本全栈开发DEMO](https://github.com/JuneJH/blog/issues/39)<br>
 
 
 
