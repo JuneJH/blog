@@ -72,8 +72,9 @@
 3. [关于React类组件的生命周期](https://github.com/JuneJH/blog/issues/38)<br>
 4. [关于React核心概念](https://github.com/JuneJH/blog/issues/40)<br>
 5. [关于React事件](https://github.com/JuneJH/blog/issues/41)<br>
-6. [关于Hook使用](https://github.com/JuneJH/blog/issues/36)<br>
-7. [关于React-Router【计划中】]()<br>
+6. [关于React渲染过程](https://github.com/JuneJH/blog/issues/42)
+7. [关于Hook使用](https://github.com/JuneJH/blog/issues/36)<br>
+8. [关于React-Router【计划中】]()<br>
 
 
 ## 【生产】Vue
