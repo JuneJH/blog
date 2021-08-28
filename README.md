@@ -1,6 +1,6 @@
 # 记录
 
-记录学习的脚步 
+记录学习路线
 
 ## 【基石】Hyper Text Markup Language
 
@@ -8,7 +8,7 @@
 2. [关于a元素](https://github.com/JuneJH/blog/issues/28)
 3. [关于img元素](https://github.com/JuneJH/blog/issues/29)
 4. [关于表单那些](https://github.com/JuneJH/blog/issues/30)
-5. [关于video&audio元素【待上传】]()
+5. [关于video&audio元素【整理】]()
  
  
 ## 【基石】Cascading Style Sheets 
@@ -18,8 +18,8 @@
 3. [关于盒子模型](https://github.com/JuneJH/blog/issues/33)<br>
 4. [关于BFC](https://github.com/JuneJH/blog/issues/34)<br>
 5. [关于三栏布局](https://github.com/JuneJH/blog/issues/19)<br>
-6. [关于Flex布局【待上传】]()<br>
-7. [关于居中方案【待上传】]()<br>
+6. [关于Flex布局【整理】]()<br>
+7. [关于居中方案【整理】]()<br>
 
  
 ## 【基石】JavaScript
