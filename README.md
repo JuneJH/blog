@@ -1,6 +1,7 @@
 # 记录
 
 记录学习路线
+[更友好的站点](http://blog.junejh.cn/)
 
 ## 【基石】Hyper Text Markup Language
 
